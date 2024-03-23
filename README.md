@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marco Antonio Oliari</h1>
-<h3 align="center">A passionate computer engineering student from Brazil</h3>
+<h3 align="center">A passionate computer engineering from Brazil</h3>
 
-- 🌱 I’m currently learning **web development with JavaScript and data science**
+- 🌱 I’m currently a **Ruby on Rails developer**
 
 - 📫 How to reach me **marcoaoliari@gmail.com**
 
